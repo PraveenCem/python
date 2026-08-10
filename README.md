@@ -1,3 +1,4 @@
 # python
 python mini projects
-- Calcultor program added
+- Calcultor Program
+- Number Guessing Game
